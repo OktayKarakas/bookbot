@@ -1,2 +1,2 @@
 # bookbot
-# BookBot is my first project!
+for counting words and chars in provided content
